@@ -7,7 +7,7 @@
 
 	function refreshPage() {
 			var people = [];
-			$.getJSON('text.json', function(data) {
+			$.getJSON('text.json?uniq=' + (new Date()).getTime(), function(data) {
 			       var timeout = data.refresh || 60;
 				   
 				   $("#big-text").html(data.text.big || "");
