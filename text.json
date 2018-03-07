@@ -1,8 +1,8 @@
 {
-    "refresh": 10,
-    "text": {
-        "big": "Big text",
-	"small": "This is small text ver XI.",
-        "topright": "7.3.2018" 
-    }
+  "refresh": 300,
+  "text": {
+       "big": "\<font color=\"red\">Failure!</font>",
+       "small": "There are no tests.",
+       "topright": "7.3.2018"
+   }
 }
