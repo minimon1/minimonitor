@@ -2,6 +2,7 @@
     "refresh": 10,
     "text": {
         "big": "Big text",
-	"small": "This is small text ver IX."
+	"small": "This is small text ver XI.",
+        "topright": "7.3.2018" 
     }
 }
