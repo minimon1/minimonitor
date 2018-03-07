@@ -1,8 +1,8 @@
 {
   "refresh": 10,
   "text": {
-       "big": "93 %",
-       "small": "Currently 1 of 15 tests fail.",
+       "big": "80 %",
+       "small": "Currently 3 of 15 tests fail.",
        "topright": "7.3.2018"
    }
 }
