@@ -1,8 +1,8 @@
 {
-  "refresh": 300,
+  "refresh": 10,
   "text": {
-       "big": "<font color=\"red\">Failure!</font>",
-       "small": "There are no tests.",
+       "big": "93 %",
+       "small": "Currently 1 of 15 tests fail.",
        "topright": "7.3.2018"
    }
 }
